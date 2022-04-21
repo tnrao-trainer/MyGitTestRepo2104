@@ -6,4 +6,11 @@ public class EmpClass
     {
 		
 	}	
+	
+	
+	public string GetData()
+	{
+		
+		return "Hello World";
+	}
 }
