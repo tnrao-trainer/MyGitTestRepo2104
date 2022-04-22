@@ -1,0 +1,8 @@
+# ignore all files in any directory named build
+node_modules/
+logs/
+
+# ignore json files
+*.json
+
+
